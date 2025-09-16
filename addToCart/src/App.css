@@ -7,11 +7,9 @@ body{
 }
 
 .addToCartButtonWrapper{
-  max-width: 155px;
-  .cart{
-    width: inherit;
-  }
+  width: 100px;
+  aspect-ratio: 4/1;
   .addItems{
-    width: inherit;
+    width: 100%;
   }
 }
