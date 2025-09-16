@@ -5,11 +5,3 @@ body{
   width: 100%;
   min-height: 100vh;
 }
-
-.addToCartButtonWrapper{
-  width: 100px;
-  aspect-ratio: 4/1;
-  .addItems{
-    width: 100%;
-  }
-}
